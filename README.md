@@ -2,7 +2,7 @@
 Data Modeling with PostgreSQL<br><br>
 
 ## Purpose
-To perform ETL process on Spakify's dataset for its analytics team<br><br>
+To perform ETL process on Spakify's dataset<br><br>
 
 ## Description
 This project is a part of Udacity's Data Engineering Nanodegree program. Sparkify is a startup that runs music streaming app. The company's analytics team wants to know which songs its users listen to, and requested five tables of relational data. Raw data from the app is stored in local JSON files, and ETL is performed on the data using Python module psycopg2.<br><br>
