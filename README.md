@@ -17,12 +17,12 @@ This project is a part of Udacity's Data Engineering Nanodegree program. Sparkif
    - Fact table: songplays
    - Dimention tables: songs, artists, users, time<br><br>
 
-### Process Detail 2: Running 'etl.py'
-###### Part 1
+## Process Detail 2: Running 'etl.py'
+##### Part 1
 1. Extracts song-related data from 'data/song_data' directory
 2. Transforms (certain columns of data)
 3. Loads into two of the tables: songs, artists
-###### Part 2
+#### Part 2
 4. Extracts log-related data from 'data/log_data' directory
 5. Transforms (change timestamp to datetime and select certain columns of data)
 6. Loads into three of the tables: time, users, songplays<br><br>
